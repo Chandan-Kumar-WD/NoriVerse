@@ -1,0 +1,15 @@
+# Home behavior, saved pizza and feeding guide — 2026-10-28
+
+Nori now stays mostly happy on the kitchen home screen. She smiles calmly with natural spaced blinks and an occasional broad smile held for several seconds. Sustained inactivity of about 25 seconds starts only two subdued expressions: worried (12 seconds) and sleepy/bored (14 seconds). The rapid worried/glancing/surprised/raised-arm/yawn chain is removed. Interaction immediately returns her to a happy expression, which holds instead of cycling. Feeding owns the expression animation while active, so ordinary touches cannot interrupt chewing with a competing mood animation.
+
+Completed pizza data now persists through PlayerPrefs as a versioned recipe containing the actual cheese/topping positions, scales and rotations. Completion is saved at the end of baking. The saved completed recipe is separate from the unfinished current attempt: starting another recipe does not erase the available pizza, and returning home from an unfinished attempt restores the saved completed dish. Repeated feeding does not consume its availability. A normal cold start reloads the completed pizza, allowing immediate drag-to-mouth feeding without repeating cooking.
+
+The feeding guide is gated by actual dish completion. A newly completed dish gets one initial demonstration after returning home. User interaction cancels it. Further demonstrations require 12 seconds of inactivity while a completed dish is available; repeated demonstrations are separated by a fresh idle interval. A cold launch with a saved dish does not count as newly completing cooking, so no immediate demonstration plays. A fresh home screen without a completed dish never shows the feeding guide, even after a long idle period. Tap on the centre dish still starts a replay; drag feeds the completed dish.
+
+Previous versions never wrote completed dishes to disk. Earlier lost completions and their exact custom toppings cannot be reconstructed. The first completion after this update creates the persistent saved dish; no completion is invented for new users.
+
+Tests run against an isolated preference key and restore the user's profile afterward. All 23 PlayMode tests passed with zero failures, including saved-recipe cold start, unfinished replay, corrupted saves, immediate feeding after restart, guide/activity/idle gating, long expression holds, existing full recipe and exit confirmation regressions. Results: `BuildReports/home-behavior-tests.xml`; build log: `BuildReports/home-behavior-build.log`.
+
+Key code: `NoriMoodDirector.cs`, `CompletedPizzaStore.cs`, `PizzaRecipeState.cs`, `PizzaServingController.cs`, `KitchenMenuController.cs`, `GestureHint.cs`. No new images or credits were needed. Physical-device behavior is not claimed as tested. Xcode exports are refreshed with the current source; Unity is reopened from Splash for review.
+
+The updated device Xcode build succeeded (`BuildReports/home-behavior-xcode-build.log`), and both device and simulator projects were re-exported.

@@ -1,0 +1,9 @@
+{
+  "name": "NoriVerse.Runtime",
+  "rootNamespace": "NoriVerse",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}

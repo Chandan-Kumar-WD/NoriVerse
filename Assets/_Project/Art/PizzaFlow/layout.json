@@ -1,0 +1,118 @@
+{
+ "sprites": [
+  {
+   "path": "PizzaFlow/rolling_board.png",
+   "ppu": 65.669,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/dough_small.png",
+   "ppu": 165.2,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/dough_medium.png",
+   "ppu": 100.8,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/dough_rolled.png",
+   "ppu": 86.261,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/rolling_pin.png",
+   "ppu": 147.0,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/pizza_base.png",
+   "ppu": 109.822,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/sauce_disc.png",
+   "ppu": 121.986,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/cheese_shred.png",
+   "ppu": 1417.143,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/tomato_slice.png",
+   "ppu": 482.667,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/cheese_piece.png",
+   "ppu": 422.069,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/basil_sprig.png",
+   "ppu": 322.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/sorting_tray.png",
+   "ppu": 66.875,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/wood_background.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/sort_upper.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaFlow/sort_lower.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 1
+  },
+  {
+   "path": "PizzaFlow/yellow_background.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/tomato_slice_silhouette.png",
+   "ppu": 482.667,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/cheese_piece_silhouette.png",
+   "ppu": 422.069,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/basil_sprig_silhouette.png",
+   "ppu": 322.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "sprites": [
+  {
+   "path": "PizzaFinish/baked_base.png",
+   "ppu": 109.822,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/sun_cloud.png",
+   "ppu": 217.692,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/oven_background.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/avatar_satisfied.png",
+   "ppu": 182.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/avatar_smile.png",
+   "ppu": 182.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/avatar_blink.png",
+   "ppu": 182.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  }
+ ]
+}

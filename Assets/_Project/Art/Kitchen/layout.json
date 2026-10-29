@@ -1,0 +1,514 @@
+{
+ "sprites": [
+  {
+   "path": "Characters/Nori/bust/nori_bust_smile.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_blink.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_big_smile.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_half_blink.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_worried.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_worried_left.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_worried_right.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_worried_closed.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_surprised_arms.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_yawn.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_sleepy.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_arms_half.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_yawn_half.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_smile_wide.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0.0
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_pawL.png",
+   "ppu": 363.81,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Characters/Nori/bust/nori_bust_pawR.png",
+   "ppu": 350.476,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Pot/pot_body.png",
+   "ppu": 262.727,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Pot/pot_lid.png",
+   "ppu": 403.158,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Menu/wall.png",
+   "ppu": 52.75,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Menu/counter.png",
+   "ppu": 53.875,
+   "pivotX": 0.5,
+   "pivotY": 1.0
+  },
+  {
+   "path": "Kitchen/Menu/window.png",
+   "ppu": 109.6,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Menu/dish_plate.png",
+   "ppu": 311.724,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Menu/padlock.png",
+   "ppu": 696.842,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Menu/btn_back.png",
+   "ppu": 667.544,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/cook_bg.png",
+   "ppu": 53.917,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/bowl.png",
+   "ppu": 103.514,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/tray.png",
+   "ppu": 113.043,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/butter_curl.png",
+   "ppu": 421.667,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/flour_pile.png",
+   "ppu": 330.833,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/sugar_crystals.png",
+   "ppu": 376.0,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/whisk.png",
+   "ppu": 241.389,
+   "pivotX": 0.17,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/hand_point.png",
+   "ppu": 436.471,
+   "pivotX": 0.12,
+   "pivotY": 0.93
+  },
+  {
+   "path": "Kitchen/Cooking/batter_1.png",
+   "ppu": 136.271,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/batter_2.png",
+   "ppu": 130.169,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/batter_3.png",
+   "ppu": 140.678,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Cooking/batter_4.png",
+   "ppu": 127.458,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Menu/herb_pots.png",
+   "ppu": 219.444,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "Kitchen/Menu/herb_wall_shelf.png",
+   "ppu": 248.537,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "Kitchen/Menu/served_pancakes.png",
+   "ppu": 335.862,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "Kitchen/Menu/served_cheese_toast.png",
+   "ppu": 334.483,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "Kitchen/Menu/served_pear_tart.png",
+   "ppu": 314.483,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "Kitchen/Menu/served_tomato_pizza.png",
+   "ppu": 302.759,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "Kitchen/Menu/served_cookie_pizza.png",
+   "ppu": 342.759,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "Kitchen/Menu/served_star_fruit.png",
+   "ppu": 341.379,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "Kitchen/Menu/served_veggie_pizza.png",
+   "ppu": 302.069,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaFlow/rolling_board.png",
+   "ppu": 65.669,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/dough_small.png",
+   "ppu": 165.2,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/dough_medium.png",
+   "ppu": 100.8,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/dough_rolled.png",
+   "ppu": 86.261,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/rolling_pin.png",
+   "ppu": 147.0,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/pizza_base.png",
+   "ppu": 109.822,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/sauce_disc.png",
+   "ppu": 121.986,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/cheese_shred.png",
+   "ppu": 1417.143,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/tomato_slice.png",
+   "ppu": 482.667,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/cheese_piece.png",
+   "ppu": 422.069,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/basil_sprig.png",
+   "ppu": 322.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/sorting_tray.png",
+   "ppu": 66.875,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/wood_background.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/sort_upper.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaFlow/sort_lower.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 1
+  },
+  {
+   "path": "PizzaFlow/yellow_background.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/tomato_slice_silhouette.png",
+   "ppu": 482.667,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/cheese_piece_silhouette.png",
+   "ppu": 422.069,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFlow/basil_sprig_silhouette.png",
+   "ppu": 322.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/baked_base.png",
+   "ppu": 109.822,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/sun_cloud.png",
+   "ppu": 217.692,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/oven_background.png",
+   "ppu": 57.333,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/avatar_satisfied.png",
+   "ppu": 182.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/avatar_smile.png",
+   "ppu": 182.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaFinish/avatar_blink.png",
+   "ppu": 182.857,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/prep_board_premium.png",
+   "ppu": 71.562,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/sauce_holder.png",
+   "ppu": 451.579,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/cheese_holder.png",
+   "ppu": 482.105,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/salami_clean.png",
+   "ppu": 446.452,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/salami_clean_silhouette.png",
+   "ppu": 446.452,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/oven_premium.png",
+   "ppu": 106.721,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/oven_rack_premium.png",
+   "ppu": 104.81,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/reward_star_empty.png",
+   "ppu": 389.744,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/reward_star_gold.png",
+   "ppu": 388.718,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/nori_anticipate.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_bite_open.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_bite_close.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_chew_left.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_chew_right.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_savour.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  }
+ ]
+}

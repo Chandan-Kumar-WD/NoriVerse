@@ -1,0 +1,35 @@
+# Unity-generated local state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+/Builds/
+/BuildReports/
+/scratchpad/
+*.csproj
+*.sln
+*.slnx
+*.pidb
+*.booproj
+*.user
+*.unityproj
+*.suo
+*.tmp
+*.opendb
+*.VC.db
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.DS_Store
+**/__pycache__/
+*.pyc
+mono_crash.*
+/*.log
+# Local connector configuration may contain credentials
+/.mcp.json
+# Captures are opt-in development output
+/Docs/playmode_captures/
+/Docs/captures/

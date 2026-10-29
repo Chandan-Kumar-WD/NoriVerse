@@ -1,0 +1,94 @@
+{
+ "sprites": [
+  {
+   "path": "PizzaUpgrade/prep_board_premium.png",
+   "ppu": 71.562,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/sauce_holder.png",
+   "ppu": 451.579,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/cheese_holder.png",
+   "ppu": 482.105,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/salami_clean.png",
+   "ppu": 446.452,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/salami_clean_silhouette.png",
+   "ppu": 446.452,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/oven_premium.png",
+   "ppu": 106.721,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/oven_rack_premium.png",
+   "ppu": 104.81,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/reward_star_empty.png",
+   "ppu": 389.744,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/reward_star_gold.png",
+   "ppu": 388.718,
+   "pivotX": 0.5,
+   "pivotY": 0.5
+  },
+  {
+   "path": "PizzaUpgrade/nori_anticipate.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_bite_open.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_bite_close.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_chew_left.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_chew_right.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  },
+  {
+   "path": "PizzaUpgrade/nori_savour.png",
+   "ppu": 150.0,
+   "pivotX": 0.5,
+   "pivotY": 0
+  }
+ ]
+}

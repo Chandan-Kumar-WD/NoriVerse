@@ -1,0 +1,13 @@
+{
+  "name": "NoriVerse.Editor",
+  "rootNamespace": "NoriVerse.EditorTools",
+  "references": [
+    "NoriVerse.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}
